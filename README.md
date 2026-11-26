@@ -110,4 +110,6 @@ Performed validation checks to verify database integrity:
 
 ## 📈 Power BI Dashboard
 <img width="1362" height="755" alt="image" src="https://github.com/user-attachments/assets/a81956cf-6eeb-4258-a6d8-e2afda2fda0e" />
+<img width="1305" height="727" alt="image" src="https://github.com/user-attachments/assets/afbac431-f9e8-4079-ad58-05d32634e4d2" />
+<img width="1268" height="728" alt="image" src="https://github.com/user-attachments/assets/e822b728-a833-4d6c-8e72-b500729c0650" />
 
