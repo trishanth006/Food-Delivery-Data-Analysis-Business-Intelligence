@@ -109,7 +109,29 @@ Performed validation checks to verify database integrity:
 - Validated relationships between orders, customers, restaurants, dates and items.
 
 ## 📈 Power BI Dashboard
-<img width="1362" height="755" alt="image" src="https://github.com/user-attachments/assets/a81956cf-6eeb-4258-a6d8-e2afda2fda0e" />
-<img width="1305" height="727" alt="image" src="https://github.com/user-attachments/assets/afbac431-f9e8-4079-ad58-05d32634e4d2" />
-<img width="1268" height="728" alt="image" src="https://github.com/user-attachments/assets/e822b728-a833-4d6c-8e72-b500729c0650" />
 
+The interactive Power BI dashboard provides insights into food delivery business performance through multiple analytical views.
+
+### Dashboard Preview
+
+**1. Overview Dashboard**
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a81956cf-6eeb-4258-a6d8-e2afda2fda0e" width="100%" alt="Food Delivery Dashboard Overview"/>
+</p>
+
+**2. Customer & Order Analysis**
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/afbac431-f9e8-4079-ad58-05d32634e4d2" width="100%" alt="Food Delivery Customer and Order Analysis"/>
+</p>
+
+**3. Restaurant & Delivery Analysis**
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e822b728-a833-4d6c-8e72-b500729c0650" width="100%" alt="Food Delivery Restaurant and Delivery Analysis"/>
+</p>
+
+**Dashboard File:** `Food Delivery DashBoard.pbix`
+
+Open the PBIX file using Microsoft Power BI Desktop to explore the interactive report.
