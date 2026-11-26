@@ -109,4 +109,5 @@ Performed validation checks to verify database integrity:
 - Validated relationships between orders, customers, restaurants, dates and items.
 
 ## 📈 Power BI Dashboard
+<img width="1362" height="755" alt="image" src="https://github.com/user-attachments/assets/a81956cf-6eeb-4258-a6d8-e2afda2fda0e" />
 
